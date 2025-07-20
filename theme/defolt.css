@@ -1,0 +1,21 @@
+.header-area{
+	background: #000;
+}
+
+.navbar,
+.sidebar h3 {
+    background: #333;
+}
+
+.main_content,
+.sidebar,
+.fotter {
+    background: #666;
+}
+
+.main_content,
+.main_content a,
+.pagination a,
+.sidebar {
+    color: #fff;
+}

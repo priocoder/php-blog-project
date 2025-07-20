@@ -1,0 +1,37 @@
+.header-area,
+.fotter,
+.fotter .container  {
+    background: #005E00;
+}
+
+.search-section form input {
+    border: none;
+}
+
+.navbar,
+.sidebar h3 {
+    background: #2A9531;
+}
+
+.main_content,
+.pagination a,
+.sidebar {
+    background: #C2F6C4;
+}
+
+.main_content a,
+.pagination a {
+    color: #005E00;
+}
+
+.main_content button {
+    color: #fff;
+}
+
+.sidebar a,p {
+    color: #000;
+}
+
+.contact_wrapper {
+    background: linear-gradient(45deg, #465AC1, #A34196);
+}
